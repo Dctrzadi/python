@@ -1,0 +1,17 @@
+a=30
+b="Aditya"
+c=71.22
+d=True
+e=None
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
+s_meer=7
+print(s_meer)
